@@ -12,6 +12,16 @@ https://ru.wikipedia.org/wiki/Виселица_(игра)
 ruby версии 2 и выше
 ## Поддерживаемые языки(support language):
 Только русский (russian only)
+## Установка
+- Скачайте архив
+- Установите bundler (если не установлен вместе с руби)
+```
+gem install bundler
+```
+- Установите окружение
+```
+bundle install
+```
 ## Запуск:  
 ```
 ruby viselitsa.rb
